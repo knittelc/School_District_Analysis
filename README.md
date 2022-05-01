@@ -6,15 +6,23 @@ The purpose of this analysis was to look at high-level snapshot of the district'
 ### Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 - How is the district summary affected?
+    Based on the results below, Fig. 1 by removing the ninth grade class at Thomas High School, the following metrics were changed:  Average Math Score decreased by 1.0 tenths, Percentage of people passing math decreased by 2.0 tenths a percent, Percentage of people passing reading decreased by 1.0 tenths of a percentage, and the largest change in metrics are shown in Overall passing percentage which decreased by 3.0 tenths of a percentage.  It should be noted that Average Reading score did not change.
+    
 ![District Summary 1](https://user-images.githubusercontent.com/102183530/166153032-5df61757-6d3b-4231-992e-5fd1122c90c8.png)
 
-###### District Summary initial analysis with all the given data.
+###### Figure 1. District Summary initial analysis with all the given data.
 
 ![District Summary 2](https://user-images.githubusercontent.com/102183530/166153069-741e62d8-fcec-4692-b7a9-e7d545d08fac.png)
 
-###### District Summary with Ninth grade results from Thomas High School removed from the data.
+###### Figure 2. District Summary with Ninth grade results from Thomas High School removed from the data.
 
 - How is the school summary affected?
+
+![Top 5 1](https://user-images.githubusercontent.com/102183530/166153864-070b2c4c-ce36-46fb-89c8-5e778d722e29.png)
+
+###### Figure 3. 
+
+![Top 5 schools 2](https://user-images.githubusercontent.com/102183530/166153873-6f8c4afe-6cff-4652-b71c-06706bb7597b.png)
 
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
