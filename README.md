@@ -1,7 +1,9 @@
 # School_District_Analysis
 
 ## Overview of the school district analysis:
-The purpose of this analysis was to look at high-level snapshot of the district's key metrics, per school metrics and report them in an easy to display and understand table format.  Then, return the school data numbers to the school board for their take on the performance outcomes with these in mind:  The Top 5 and bottom 5 performing schools, based on the overall passing rate, the average math and reading score received by students in each grade level at each school, and school performance based on the budget per student, school size, and type of school.
+The purpose of this analysis was to look at high-level snapshot of the district's key metrics, per school metrics and report them in an easy to display and understand table format.  Then, return the school data numbers to the school board for their take on the performance outcomes with these in mind:  The Top 5 and bottom 5 performing schools, based on the overall passing rate, the average math and reading score received by students in each grade level at each school, and school performance based on the budget per student, school size, and type of school.  
+
+*After asking for this analysis, the school board was notified that tampered scores were reported for Thomas High School's entire ninth grade student population (461 students).  These data were subsequently removed.  Both analyses are reported here; with sepecial atttention paid to how the data removal affected the overall district.*
 
 ### Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
@@ -31,7 +33,14 @@ The purpose of this analysis was to look at high-level snapshot of the district'
     As noted in the above Figures 3 and 4, Thomas High School drops from the number two(2) overall spot, to the bottom five (5).
     
 - How does replacing the ninth-grade scores affect the following:
-    - Math and reading scores by grade
+    - Math and reading scores by grade:
+    
+![Math Scores by grade1](https://user-images.githubusercontent.com/102183530/166166689-582b8960-0407-4164-b258-0cd366273ed3.png)
+![Math scores by grade2](https://user-images.githubusercontent.com/102183530/166166708-b7ff9ccf-d11e-4900-9baf-3478ed273320.png)
+
+###### Figure 5 (left) and 6 (right):  Math scores by grade originally; and after removing the Ninth grade scores from Thomas High School.
+
+
     - Scores by school spending
     - Scores by school size
     - Scores by school type
