@@ -17,15 +17,19 @@ The purpose of this analysis was to look at high-level snapshot of the district'
 ###### Figure 2. District Summary with Ninth grade results from Thomas High School removed from the data.
 
 - How is the school summary affected?
+    Based on the results below, Fig. 3 includes the ninth grade class, where Fig. 4 is without the scores from the Ninth grade Thomas High School students.  The numbers drop significantly in each Percentage category: Passing Math (26.36 points lost), Passing Reading (27.65 points lost), and Overall (25.88 points lost).  These results for Thomas High School drops it from the top five best performing school based on overall passing percentage, to the bottom five, and lowest performing schools.
 
 ![Top 5 1](https://user-images.githubusercontent.com/102183530/166153864-070b2c4c-ce36-46fb-89c8-5e778d722e29.png)
 
-###### Figure 3. 
+###### Figure 3. School summary including all students
 
-![Top 5 schools 2](https://user-images.githubusercontent.com/102183530/166153873-6f8c4afe-6cff-4652-b71c-06706bb7597b.png)
+![Top 5 2](https://user-images.githubusercontent.com/102183530/166166245-01db6998-e460-4391-abba-750f6db3f26d.png)
 
+###### Figure 4. School summary without Ninth grade students from Thomas High School
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+    As noted in the above Figures 3 and 4, Thomas High School drops from the number two(2) overall spot, to the bottom five (5).
+    
 - How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade
     - Scores by school spending
