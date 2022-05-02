@@ -34,12 +34,7 @@ The purpose of this analysis was to look at high-level snapshot of the district'
     
 - How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade:
-    
-![Math Scores by grade1](https://user-images.githubusercontent.com/102183530/166166689-582b8960-0407-4164-b258-0cd366273ed3.png)
-![Math scores by grade2](https://user-images.githubusercontent.com/102183530/166166708-b7ff9ccf-d11e-4900-9baf-3478ed273320.png)
-
-###### Figure 5 (left) and 6 (right):  Math scores by grade originally; and after removing the Ninth grade scores from Thomas High School.
-
+        The biggest affect of removing an entire grade of a school is that there is no data to compare.  So the entire 9th grade for Thomas High School returns a "NAN" value.
 
     - Scores by school spending
     - Scores by school size
